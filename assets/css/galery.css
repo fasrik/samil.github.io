@@ -1,0 +1,15 @@
+/** @format */
+
+body {
+	background-color: #e9dcdc;
+	padding-bottom: 30px;
+}
+
+.gallery {
+	width: 25rem;
+	padding-top: 30px;
+}
+h2 {
+	color: #0a0808;
+	padding-top: 20px;
+}
